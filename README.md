@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Redux do CONCEITO a PRÁTICA! Migrando Redux Antigo para Redux Toolkit  
+<h2>Redux conceitos basicos
 </h2>
 
 <br>
